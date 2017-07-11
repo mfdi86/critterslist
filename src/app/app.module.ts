@@ -15,7 +15,7 @@ import { PostDetailComponent } from './post-detail/post-detail.component';
 
 @NgModule({
   declarations: [
-    AppComponent,
+    AppComponent, 
     WelcomeComponent,
     JobsComponent,
     HousingComponent,
